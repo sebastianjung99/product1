@@ -1,3 +1,9 @@
 [submodule "module1"]
 	path = module1
 	url = https://github.com/sebastianjung99/module1.git
+[submodule "module2"]
+	path = module2
+	url = https://github.com/sebastianjung99/module2.git
+[submodule "module3"]
+	path = module3
+	url = https://github.com/sebastianjung99/module3.git
