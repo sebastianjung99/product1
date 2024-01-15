@@ -1,2 +1,4 @@
 # product1
-test
+add submodule with **git submodule add <link>**
+
+update submodule with **git submodule update --remote**
